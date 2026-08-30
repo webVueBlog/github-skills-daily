@@ -1,2 +1,29 @@
-# github-skills-daily
-每日追踪 GitHub 最新热门 AI Agent Skills、用途与行业应用
+# GitHub Skills Daily
+
+每日追踪 GitHub 上新近且热门的 AI Agent / Codex / Claude Code Skills，并用中文说明每个技能：
+
+- 能解决什么问题
+- 主要能力与典型使用方式
+- 服务的行业和岗位
+- 热度与新鲜度依据（Stars、近期增长、更新时间等）
+- 项目链接与采用建议
+
+## 日报
+
+日报保存在 [`daily/`](daily/) 中，文件名为 `YYYY-MM-DD.md`。自动任务每天更新一次；同一天重复运行时更新当天文件，不产生重复日报。
+
+## 评选口径
+
+优先搜索 GitHub 中与 `agent skill`、`AI skill`、`Codex skill`、`Claude Code skill`、`SKILL.md` 等相关的仓库。综合参考：
+
+1. 最近 24 小时至 7 天的新建或更新情况；
+2. Stars、Forks 及近期增长趋势；
+3. 文档完整度、可安装性和真实使用价值；
+4. 行业适配度及与已有条目的差异。
+
+结果不是单纯的 Stars 排行，而是兼顾“最新、最热、可用”。
+
+## 内容说明
+
+所有资料来自公开页面，热度指标只代表抓取时的快照。采用第三方技能前，请自行审查代码、权限、许可证及安全风险。
+
